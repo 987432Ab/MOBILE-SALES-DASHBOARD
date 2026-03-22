@@ -65,3 +65,6 @@ This dashboard helps in data-driven decision-making, performance tracking, and i
 
 ## 💡 Conclusion
 This dashboard provides a clear and interactive way to monitor mobile sales performance and helps businesses make informed decisions using real-time insights.
+
+<img width="898" height="539" alt="Capture, DASHBBOARD" src="https://github.com/user-attachments/assets/aff27562-600a-4029-ac7c-5d1116ecbd0f" />
+
