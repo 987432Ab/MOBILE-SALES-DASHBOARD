@@ -1,4 +1,5 @@
 #Mobile Sales Analytics Dashboard (MTD & YTD Performance Insights)
+##PROJECT OBJECTIVE
 To design and develop an interactive dashboard that provides comprehensive insights into mobile sales performance across different dimensions such as time (Year, Quarter, Month), geography (City), product categories (Brand & Model), and payment methods.
 
 The objective is to enable stakeholders to:
