@@ -23,7 +23,7 @@ This dashboard helps in data-driven decision-making, performance tracking, and i
 
 ## 📂 Dataset
 - Source: Sample / Practice Dataset  
-- Access Link: (PASTE_YOUR_https://github.com/987432Ab/MOBILE-SALES-DASHBOARD/blob/main/PASTE_YOUR_DATASET_LINK_HEREDATASET_LINK_HERE)
+- Access Link: https://github.com/987432Ab/MOBILE-SALES-DASHBOARD/blob/main/PASTE_YOUR_DATASET_LINK_HEREDATASET_LINK_HERE
 
 ---
 
