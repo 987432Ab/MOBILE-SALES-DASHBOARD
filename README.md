@@ -51,6 +51,17 @@ This dashboard helps in data-driven decision-making, performance tracking, and i
 - Analyzed monthly sales trends and seasonality  
 - Compared yearly growth patterns  
 - Evaluated customer payment preferences  
-- Tracked sales performance across different cities  
+- Tracked sales performance across different cities
+- ## 🖼️ Dashboard Preview
+
+### 🔹 Main Dashboard
+![Dashboard](PASTE_IMAGE_LINK_HERE)
+
+### 🔹 MTD Report
+![MTD](PASTE_IMAGE_LINK_HERE)
+
+### 🔹 Same Period Last Year
+![SPY](PASTE_IMAGE_LINK_HERE)
+
 ## 💡 Conclusion
 This dashboard provides a clear and interactive way to monitor mobile sales performance and helps businesses make informed decisions using real-time insights.
