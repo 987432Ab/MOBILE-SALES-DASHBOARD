@@ -55,13 +55,13 @@ This dashboard helps in data-driven decision-making, performance tracking, and i
 - ## 🖼️ Dashboard Preview
 
 ### 🔹 Main Dashboard
-![Dashboard](PASTE_IMAGE_LINK_HERE)
+![Dashboard] https://github.com/987432Ab/MOBILE-SALES-DASHBOARD/blob/main/Capture%2C%20DASHBBOARD.PNG
 
 ### 🔹 MTD Report
-![MTD](PASTE_IMAGE_LINK_HERE)
+![MTD] https://github.com/987432Ab/MOBILE-SALES-DASHBOARD/blob/main/Capture%20MTD.PNG
 
 ### 🔹 Same Period Last Year
-![SPY](PASTE_IMAGE_LINK_HERE)
+![SPY] https://github.com/987432Ab/MOBILE-SALES-DASHBOARD/blob/main/Capture%20YTD.PNG
 
 ## 💡 Conclusion
 This dashboard provides a clear and interactive way to monitor mobile sales performance and helps businesses make informed decisions using real-time insights.
